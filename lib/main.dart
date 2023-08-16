@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '할일 관리',
+      title: '이름 바꿈',
       home: TodoListPage(),
     );
   }
